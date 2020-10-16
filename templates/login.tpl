@@ -1,6 +1,6 @@
 {include file="header.tpl" }
 
-<form action="verifyUser" method="post">
+<form action="verificar" method="post">
 
 <h1>Ingrese a nuestra comunidad de Muay-Thai</h1>
     <div class="container">
