@@ -1,5 +1,5 @@
 {include file="header.tpl"}
-{if $loggedIn == true}
+{if $chequeologin == true}
 <div>
     <div class="design">
 
