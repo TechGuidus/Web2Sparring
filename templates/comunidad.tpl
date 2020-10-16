@@ -4,7 +4,7 @@
 <!--///////////////////////////FORM////////////////////////////////////////--> 
 <article class="main design">
 <h3>gracias, ingrese sus datos</h3>
-    <form action="login">
+    <form action="login" method="POST">
         <p>Realice registro para ser parte de esta gran y nueva comunidad</p>
 
             <p>Email:<input  type="text" name="email" id="email"></p>
