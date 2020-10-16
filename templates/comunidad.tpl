@@ -7,9 +7,8 @@
     <form>
         <p>Realice registro para ser parte de esta gran y nueva comunidad</p>
 
-            <p>Email:<input  type="text" name="e-mail" id="e_mail"></p>
-            <p>Nombre de usuario:<input  type="text" name="nombre de usuario" id=""></p>
-            <p>Contraseña: <input  type="password" name="contraseña" id=""> </p>
+            <p>Email:<input  type="text" name="email" id="email"></p>
+            <p>Contraseña: <input  type="password" name="contraseña" id="pass"> </p>
             <p>Confirme contraseña: <input  type="password" name="confirmar contraseña" id=""> </p>
             <p><input id="submit" type="button" value="REGISTRARSE"></p>
 
